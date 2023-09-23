@@ -7,10 +7,10 @@ public class fibonacciSeries{
         int firstNumber =0;
         int secondNumber = 1;
 
-        if (n ==0){
+        if (n >=1){
             System.out.print(firstNumber + " ");
         }
-        if ( n == 1){
+        if ( n >= 2){
             System.out.print(secondNumber + " ");
 
         }
