@@ -1,3 +1,6 @@
+//Using a Space O(1) only
+//No Extra space is being used 
+
 import java.util.*;
 public class array_transpose{
     public static void transpose(int arr[][]){
