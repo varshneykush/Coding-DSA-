@@ -2,7 +2,7 @@
 //No Extra space is being used 
 
 import java.util.*;
-public class array_transpose{
+public class matrix_transpose{
     public static void transpose(int arr[][]){
         int row = arr.length;
         int coloumn = arr[0].length;
